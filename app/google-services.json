@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "155667846704",
+    "project_id": "emojistatusapp-5c6aa",
+    "storage_bucket": "emojistatusapp-5c6aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155667846704:android:3ea800b35c0057a7553ff5",
+        "android_client_info": {
+          "package_name": "com.v3nspade.emojistatusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155667846704-jkgj0q36p7qno89dntgi89etleqfpa4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.v3nspade.emojistatusapp",
+            "certificate_hash": "61e14061df33af59e9b16811f6778a8acebddd6e"
+          }
+        },
+        {
+          "client_id": "155667846704-e7m0ignrln9pt4ga9r55r7t4b81kajpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZL914r9qdoMv4wdagKWyTAsfdqbGHcRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155667846704-e7m0ignrln9pt4ga9r55r7t4b81kajpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
